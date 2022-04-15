@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1650050597 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\main.cpp
+	<iostream>
+	<windows.h>
+	"first_screen.h"
+	"justify_text.hpp"
+	"log_in.h"
+	"read_csv.h"
+	"user_office.h"
+	"admin_panel.h"
+	"table_of_books.h"
+
+1650060309 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\first_screen.cpp
+	"first_screen.h"
+	<iostream>
+	"justify_text.hpp"
+
+1649712270 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\first_screen.h
+	<iostream>
+
+1649695108 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\justify_text.hpp
+	<iostream>
+	<windows.h>
+
+1650060331 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\justify_text.cpp
+	"justify_text.hpp"
+	<iostream>
+
+1649695106 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\log_in.h
+	<iostream>
+
+1650060355 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\log_in_screen.cpp
+	"log_in.h"
+	<iostream>
+	"justify_text.hpp"
+
+1650052165 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\read_csv.cpp
+	<iostream>
+	<fstream>
+	"read_csv.h"
+	<sstream>
+	"justify_text.hpp"
+	<string>
+	"first_screen.h"
+	<stdio.h>
+	<mutex>
+
+1650044289 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\read_csv.h
+	<iostream>
+
+1649699046 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\read_csv.cpp
+	<iostream>
+	<fstream>
+	"read_csv.h"
+
+1650044572 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\user_office.cpp
+	"user_office.h"
+	<iostream>
+	"justify_text.hpp"
+	"read_csv.h"
+
+1650043075 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\user_office.h
+	<iostream>
+
+1650060279 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\admin_panel.cpp
+	"admin_panel.h"
+	<iostream>
+	"first_screen.h"
+
+1649711929 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\admin_panel.h
+	<iostream>
+
+1650022225 source:c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\table_of_books.cpp
+	"table_of_books.h"
+	<iostream>
+	"read_csv.h"
+	"justify_text.hpp"
+
+1649715917 c:\users\wwwaa\onedrive\Рабочий стол\project c++\projekt\table_of_books.h
+	<iostream>
+
